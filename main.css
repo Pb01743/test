@@ -1,0 +1,31 @@
+  #glogo{
+    height: 150px;
+    width: auto;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+  .logo{
+    display: flex;
+    background-color: rgb(227, 36, 30);
+  }
+  #logp{
+    margin-top: 75px;
+    margin-right: 15px;
+    font-size: 4rem;
+    font-weight: 800px;
+  }
+  #acb{
+    height: 100px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 2rem;
+    border-radius: 5px;
+    font-weight: 800px;
+  }
+  header{
+    width: 100%;
+    background-color: palegreen;
+  }
